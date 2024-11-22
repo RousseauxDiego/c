@@ -31,26 +31,5 @@ The goal is to understand and implement low-level mechanisms for communication b
 ### Step 1: Compile the code<br>
 To compile using `make`, run:<br>
 ```bash<br>
-make all<br>
-```<br>
-This will generate two executables: `server` and `client`.<br><br>
+make
 
-### Step 2: Start the server<br>
-First, start the server:<br>
-```bash<br>
-./server<br>
-```<br>
-
-### Step 3: Start the client<br>
-Then, in another terminal, start the client:<br>
-```bash<br>
-./client<br>
-```<br><br>
-
-## Project Structure<br>
-- `server.c`: Server source code.<br>
-- `client.c`: Client source code.<br>
-- `Makefile`: Script to automate compilation and file management.<br><br>
-
-## Author<br>
-Diego Rousseaux<br>
